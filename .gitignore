@@ -3,7 +3,6 @@
 
 # secrets
 .envrc
-.env
 
 # js/nodejs
 node_modules
@@ -19,3 +18,4 @@ api/.clever.json
 
 # docker-compose
 .data
+config.bat
